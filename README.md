@@ -12,4 +12,4 @@ This is a Native application built on Flutter 1.12.13 with Dart 2.8, applicable 
 
 <img src="https://user-images.githubusercontent.com/80382586/111513731-1cdc7500-8777-11eb-844d-5b71de9cd106.jpg" width="500" height="900">
 
-<img src="https://user-images.githubusercontent.com/80382586/111075163-b9e7a580-850c-11eb-8c02-afbcdf9a2c58.jpg" width="500" height="900">
+<img src="https://user-images.githubusercontent.com/80382586/111514731-05ea5280-8778-11eb-8673-18e882cff3bb.jpg" width="500" height="900">
