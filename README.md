@@ -6,6 +6,8 @@ This is a Native application built on Flutter 1.12.13 with Dart 2.8, applicable 
 
 
 ## Photos
+<img src="https://user-images.githubusercontent.com/80382586/147370473-5ceccd25-f366-43ab-884c-8698372aeed0.png" width="500" height="900">
+
 <img src="https://user-images.githubusercontent.com/80382586/111513756-2239bf80-8777-11eb-915a-59fca79ab272.jpg" width="500" height="900">
 
 <img src="https://user-images.githubusercontent.com/80382586/111513774-2665dd00-8777-11eb-987e-a954ef4f7ca1.jpg" width="500" height="900">
